@@ -11,16 +11,20 @@
     <sprite>sprites\s_papa</sprite>
     <sprite>sprites\s_caca</sprite>
     <sprite>sprites\s_lalalalala</sprite>
-    <sprite>sprites\s_sprite</sprite>
+    <sprite>sprites\sprite5</sprite>
+    <sprite>sprites\sprite6</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG</background>
     <background>background\BG_BG</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
     <script>scripts\scr_blabla.gml</script>
+    <script>scripts\script2.gml</script>
+    <script>scripts\script3.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_Super</object>
