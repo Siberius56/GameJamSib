@@ -7,12 +7,20 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_spr</sprite>
+    <sprite>sprites\s_popo</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
+    <script>scripts\scr_blabla.gml</script>
   </scripts>
+  <objects name="objects">
+    <object>objects\o_popo</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm__popo</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
