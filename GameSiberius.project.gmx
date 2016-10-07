@@ -28,11 +28,13 @@
     <object>objects\object2</object>
     <object>objects\o_lalalala</object>
     <object>objects\o_coca</object>
+    <object>objects\o_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm__popo</room>
     <room>rooms\room1</room>
     <room>rooms\rm_room_vroom</room>
+    <room>rooms\room3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
