@@ -9,9 +9,11 @@
     <sprite>sprites\spr_spr</sprite>
     <sprite>sprites\s_popo</sprite>
     <sprite>sprites\s_papa</sprite>
+    <sprite>sprites\s_caca</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG</background>
+    <background>background\BG_BG</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
