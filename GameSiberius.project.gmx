@@ -8,11 +8,16 @@
   <sprites name="sprites">
     <sprite>sprites\spr_spr</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\BG</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
+  <objects name="objects">
+    <object>objects\obj_Super</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
