@@ -11,6 +11,7 @@
     <sprite>sprites\s_papa</sprite>
     <sprite>sprites\s_caca</sprite>
     <sprite>sprites\s_lalalalala</sprite>
+    <sprite>sprites\s_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG</background>
@@ -26,10 +27,12 @@
     <object>objects\o_popo</object>
     <object>objects\object2</object>
     <object>objects\o_lalalala</object>
+    <object>objects\o_coca</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm__popo</room>
     <room>rooms\room1</room>
+    <room>rooms\rm_room_vroom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
