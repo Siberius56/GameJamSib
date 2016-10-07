@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_spr</sprite>
+    <sprite>sprites\s_popo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG</background>
@@ -14,10 +15,19 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
+    <script>scripts\scr_blabla.gml</script>
   </scripts>
   <objects name="objects">
+<<<<<<< HEAD
     <object>objects\obj_Super</object>
   </objects>
+=======
+    <object>objects\o_popo</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm__popo</room>
+  </rooms>
+>>>>>>> 38e4c0e6f47ca9c933a0c589494f7fee8f5178ef
   <help>
     <rtf>help.rtf</rtf>
   </help>
